@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9284'
     url: http://www.gutenberg.org/2009/agents/9284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20416#The-Annual-Catalogue--1737-Editions-of-Books-Pamphlets--amp-c.
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2007-01-22'
 gutenberg_type: Text
